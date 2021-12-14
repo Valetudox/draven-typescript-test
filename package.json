@@ -1,0 +1,17 @@
+{
+  "name": "draven-typescript-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run runner1 && npm run runner2",
+    "runner1": "ts-node runner.ts",
+    "runner2": "ts-node runner2.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
