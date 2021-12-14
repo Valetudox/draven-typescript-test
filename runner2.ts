@@ -1,3 +1,3 @@
-import { CodeRunner2 } from "./akarmimas2";
+import { CodeRunner } from "./akarmimas2";
 
-new CodeRunner2();
+new CodeRunner();
